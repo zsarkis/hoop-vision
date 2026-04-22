@@ -3,7 +3,6 @@ name = "hoop-vision"
 version = "0.1.0"
 description = "NBA game prediction using computer vision and graph ML"
 authors = ["Zach Sarkis"]
-python = "^3.10"
 
 [tool.poetry.dependencies]
 python = "^3.10"
